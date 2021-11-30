@@ -26,7 +26,7 @@ Thư viện hổ trợ tích cổng thanh toán VNPay phát triển trên nền 
 Cài đặt Omnipay VNPay thông qua [Composer](https://getcomposer.org):
 
 ```bash
-composer require phpviet/omnipay-vnpay
+composer require duynvh/omnipay-vnpay
 ```
 ## Cách sử dụng
 
